@@ -1,2 +1,0 @@
-# newworld
-Java,c,c++
